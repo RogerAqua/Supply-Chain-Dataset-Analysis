@@ -1,4 +1,4 @@
-# Supply-Chain-Project
+# Supply Chain Analysis Project
 
 # Abstract
 A collection of 100 distinct values, each with a separate variable, for fashion and cosmetics startup company. It affects the business's general well-being, income, profit, and shortcomings. <br/>
