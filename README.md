@@ -1,4 +1,4 @@
-# Supply Chain Analysis Project Using SQL
+# Supply Chain Analysis Using SQL
 
 # Abstract
 This analysis encompasses a comprehensive collection of 100 distinct variables that impact the overall performance, revenue, profitability, and challenges of a fashion and cosmetics startup. The primary objective is to elucidate how these variables influence critical inventory parameters, including product type, pricing strategies, lead times, and stock levels.
