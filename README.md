@@ -53,5 +53,7 @@ The following queries are the focus of the analysis:
 • The percentage of profit contributed by various areas <br/>
 • The amount of money made and their profit margin <br/>
 
+# Conclusion
+This analysis highlights key factors influencing the supply chain of a fashion and cosmetics startup. It provides actionable insights to optimize inventory, reduce costs, improve quality, and enhance profitability, supporting efficient operations and sustainable growth.
 
 
